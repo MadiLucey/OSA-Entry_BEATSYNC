@@ -12,7 +12,7 @@ class WebSocketManager: ObservableObject {
     // Establishes a WebSocket connection
     func connect() {
         // Ensure the WebSocket URL is valid
-        guard let url = URL(string: "ws://172.20.10.3:6789") else {
+        guard let url = URL(string: "ws://XXXXXXXXXXX") else { //lil bro though I was giving out my ip adress
             print("Invalid WebSocket URL")
             return
         }
