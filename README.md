@@ -1,4 +1,1 @@
-State Science fair project.
-This is code for a heart rate monitor that connect to an app.
-App only works for IOS.
-Requires purchase of an Arduino UNO and Pusle sensor to run.
+Just a fun project using C++ for hardware, python for web connection and swift for app design.
